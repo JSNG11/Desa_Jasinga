@@ -30,7 +30,7 @@ import {
         :geojson="geojson"
         :key="index"
         layer-type="overlay"
-        :name="`${geojson.properties.WIADKD + 1}`"
+        :name="`${geojson.properties.WIADKD}`"
       />
 
       <l-geo-json
@@ -141,9 +141,9 @@ export default {
       return (feature, layer) => {
         layer.bindTooltip(
           "<div>Nama:" +
-            feature.properties.nama +
+            feature.properties.Penggunaan +
             "</div><div>Luas: " +
-            feature.properties.luas +
+            feature.properties.Luas +
             " Ha</div>",
           { permanent: false, sticky: true }
         );
