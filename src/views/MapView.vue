@@ -30,7 +30,7 @@ import {
         :geojson="geojson"
         :key="index"
         layer-type="overlay"
-        :name="`Dusun ${index + 1}`"
+        :name="`${geojson.properties.WIADKD + 1}`"
       />
 
       <l-geo-json
@@ -101,7 +101,7 @@ export default {
     async loadSomeGeoJson() {
       const nextIndex = this.layerData.length;
 
-      const response = await fetch("/ds_nyule.geojson");
+      const response = await fetch("/Batas_RW_FeaturesToJSON1.json");
       const data = await response.json();
 
       console.log(data);
