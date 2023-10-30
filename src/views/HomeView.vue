@@ -12,7 +12,7 @@ import Sidebar from "../components/Sidebar.vue";
     <Sidebar />
 
     <div class="flex-1 p-10">
-      <p class="text-3xl font-semibold">Visi & Misi Desa Jasinga</p>
+      <p class="text-3xl font-semibold">Visi dan Misi Desa Jasinga</p>
       <p class="text-lg font-semibold">Visi</p>
       <p>
         “Mewujudkan Masyarakat Desa Jasinga yang Bertaqwa, Kreatif, Cerdas, Bermartabat, Berdaya dan Berbudaya, Maju, Mandiri dan Sejahtera”
@@ -20,55 +20,36 @@ import Sidebar from "../components/Sidebar.vue";
       <p class="text-lg font-semibold">Misi</p>
       <ul>
         <li>
-          1. Mengembangkan system Pemerintahan Desa yang bersih dan profesional
-          serta berorientasi pada pelayanan publik dengan prinsif kerja ikhlas,
-          lakukan sekarang dan siap turun ke lapangan;
+          1. Mengamalkan dan melaksanakan ajaran agama dalam kehidupan sehari-hari dengan mengedepankan iman, taqwa, jujur, adil, dan berakhlaqul karimah;
         </li>
         <li>
-          2. Meningkatkan dan memantapkan system perencanaan pembangunan desa
-          melalui pengoptimalan mekanisme musyawarah pembangunan desa dengan
-          melibatkan seluruh steackholder yang ada;
+          2. Meningkatkan kehidupan yang harmonis, toleran, saling menghormati dalam berbudaya beragama di Desa Jasinga;
         </li>
         <li>
-          3. Membuat skala prioritas untuk kegiatan-kegiatan pembangunan yang
-          akan dilaksanakan baik pembangunan fisik atau non fisik, seperti
-          infrastruktur, perekonomian, keagamaan, Pendidikan dan kesehatan;
+          3. Mewujudkan keamanan dan ketertiban dilingkungan Desa Jasinga;
         </li>
         <li>
-          4. Meningkatkan kemampuan dan peran serta aktif masyarakat dalam
-          mengelola pembangunan berkelanjutan secara efisisen dan efektif dengan
-          memanfaatkan potensi sumber daya yang ada, baik sumber daya alam
-          maupun sumberdaya manusia;
+          4. Meningkatkan kinerja Aparatur Desa yang berkualitas, Profesional dan berjiwa pelayanan prima tanpa membeda-bedakan status sosial masyarakat;
         </li>
         <li>
-          5. Meningkatkan kemampuan dan pemberdayaan Lembaga-lembaga
-          kemasyarakatan yang ada didesa atau lebih mendinamisasi dan mendukung
-          seluruh proses pembangunan;
+          5. Meningkatkan sarana dan prasarana penunjang baik dari segi fisik, ekonomi, pendidikan, kesehatan, olah raga dan kebudayaan yang mendukung dalam kehidupan sehari-hari;
         </li>
         <li>
-          6. Mendorong majunya Pendidikan formal maupun nonformal seperti
-          pesantren, LPK, diklat serta penyuluhan pertanian yang mudah diakses
-          dan dinikmati seluruh warga masyarakat, guna menghasilkan insan
-          intelektual, berakhlak mulia, inovatif dan entrepreneur;
+          6. Mengupayakan kemandirian masyarakat dalam melaksanakan otonomi yang berbasis pada potensi Desa;
         </li>
         <li>
-          7. Menyalurkan segala bentuk bantuan dari Pemerintah Kabupaten,
-          Provinsi dan Pusat sesuai dengan peruntukannya dan mencegah terjadinya
-          penyimpangan dan kebocoran;
+          7. Meningkatkan pemberdayaan masyarakat melalui partisipasi aktif dalam membangun maupun kegiatan ekonomi produktif untuk meningkatkan taraf hidup masyarakat;
         </li>
         <li>
-          8. Menjalin sinergitas dengan instansi atau Lembaga terkait dan pihak
-          swasta guna optimalisasi suatu tujuan lebih baik dan lebih maksimal;
+          8. Meningkatkan kesehatan, kebersihan Desa serta mewujudkan program Desa Siaga dan mengusahakan Jaminan kesehatan masyarakat melalui program Pemerintah;
         </li>
         <li>
-          9. Responsive dan aspiratif atas segala bentuk kebutuhan atau
-          keinginan dan permasalahan yang terjadi ditengah masyarakat yang
-          majemuk dan dinamis;
+          9. Meningkatkan kesejahteraan masyarakat Desa dengan mewujudkan Badan Usaha Milik Desa (BUMDES) dan program lain untuk membuka lapangan kerja dan menyalurkan tenaga kerja bagi masyarakat Desa, serta meningkatkan produksi rumahan/UMKM;
         </li>
         <li>
-          10. Membina dan memantapkankehidupan gotong royongsebagai basis dan
-          modal dasar pembangunan desa, yang pada hakikatnyajuga merupakan
-          karakter dasar dari masyarakat desa dan juga bangsa Indonesia.
+          10. Melanjutkan dan melaksanakan RPJMDes berdasarkan musyawarah dan gotong royong;
+        </li>
+          11. Sabar, Tawakal dan tetap berusaha dengan segala potensi Desa untuk mewujudkan Indeks Desa membangun yang maju, mandiri dan sejahtera.
         </li>
       </ul>
     </div>
