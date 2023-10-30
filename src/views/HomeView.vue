@@ -49,8 +49,10 @@ import Sidebar from "../components/Sidebar.vue";
         <li>
           10. Melanjutkan dan melaksanakan RPJMDes berdasarkan musyawarah dan gotong royong;
         </li>
+        <li>
           11. Sabar, Tawakal dan tetap berusaha dengan segala potensi Desa untuk mewujudkan Indeks Desa membangun yang maju, mandiri dan sejahtera.
         </li>
+        <li>
       </ul>
     </div>
   </main>
